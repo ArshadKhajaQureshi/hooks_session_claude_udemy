@@ -1,0 +1,2 @@
+# hooks_session_claude_udemy
+hooks_udemy_session_claude
